@@ -1,34 +1,47 @@
+<p align="center">
+  <img src="https://your-banner-link" alt="banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Javohir</h1>
-<h3 align="center">A passionate developer who loves coding and learning new technologies</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+</p>
+
+<p align="center">
+  A passionate developer 🚀 who loves building web apps and learning new technologies.  
+</p>
 
 ---
 
 ### 🔥 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Javohir11011&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Javohir11011&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Javohir11011&theme=tokyonight" alt="streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javohir11011&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 💻 Languages and Tools:
+### 🚀 Skills and Tools:
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,python,git" />
 </p>
 
 ---
 
-### 📊 Streak Stats:
+### 📈 Contribution Graph:
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Javohir11011&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Javohir11011&theme=tokyo-night" />
 </p>
 
 ---
 
-### 📫 Connect with Me:
+### 🌐 Connect with Me:
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://t.me/yourtelegram" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/yourtelegram" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </p>
