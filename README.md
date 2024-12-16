@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://your-banner-link" alt="banner" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Javohir</h1>
 <p align="center">
