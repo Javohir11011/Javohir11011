@@ -25,9 +25,9 @@
 
 ---
 
-### 📈 Contribution Graph:
+### 🏆 GitHub Profile Trophy:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Javohir11011&theme=tokyo-night" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Javohir11011&theme=tokyonight" />
 </p>
 
 ---
