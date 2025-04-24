@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Javohir</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
@@ -29,7 +27,7 @@
 
 ### 📈 Contribution Graph:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Javohir11011&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Javohir11011&theme=tokyo-night" />
 </p>
 
 ---
