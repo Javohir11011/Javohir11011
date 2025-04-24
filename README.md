@@ -25,10 +25,11 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 📈 Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Javohir11011/Javohir11011/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Javohir11011&theme=tokyo-night" />
 </p>
+
 
 ---
 
