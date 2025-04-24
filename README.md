@@ -25,9 +25,9 @@
 
 ---
 
-### 🏆 GitHub Profile Trophy:
+### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Javohir11011&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/Javohir11011/Javohir11011/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
