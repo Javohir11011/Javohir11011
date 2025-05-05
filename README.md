@@ -19,7 +19,7 @@
 ---
 
 ### 🚀 Skills and Tools:
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,prisma,mongodb,postgresql,git,gitlab,github,vscode" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,nestjs,express,prisma,mongodb,postgresql,git,gitlab,github,vscode" /> </p>
 ---
 
 ### 📈 Contribution Graph
