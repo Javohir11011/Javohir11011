@@ -3,11 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 </p>
 
-
 <p align="center">
   A passionate developer 🚀 who loves building web apps and learning new technologies.  
 </p>
-
 ---
 
 ### 🔥 GitHub Stats:
@@ -22,6 +20,9 @@
 ### 🚀 Skills and Tools:
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,nestjs,express,prisma,mongodb,postgresql,git,gitlab,github,vscode" /> </p>
 ---
+
+
+
 
 ### 📈 Contribution Graph
 <p align="center">
